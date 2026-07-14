@@ -1,0 +1,11 @@
+{
+  "name": "freshcart-grocery-store",
+  "version": "1.0.0",
+  "description": "Beginner-friendly full-stack online grocery store project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {}
+}
